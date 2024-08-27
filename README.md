@@ -14,7 +14,7 @@
 
 - 📫 Email: dema28ster@gmail.com
 - LinkedIn: www.linkedin.com/in/denis-novicov-dema28ster
-- Twitter:https://x.com/Denis_Novicov
+- Twitter: https://x.com/Denis_Novicov
 - Личный сайт: 
 
 ## Мои проекты
