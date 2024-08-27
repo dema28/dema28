@@ -12,10 +12,10 @@
 
 ## Связаться со мной
 
-- 📫 Email: [Твой Email]
-- LinkedIn: [Ссылка на LinkedIn профиль]
-- Twitter: [Ссылка на Twitter профиль]
-- Личный сайт: [Ссылка на твой сайт или блог]
+- 📫 Email: dema28ster@gmail.com
+- LinkedIn: www.linkedin.com/in/denis-novicov-dema28ster
+- Twitter:https://x.com/Denis_Novicov
+- Личный сайт: 
 
 ## Мои проекты
 
@@ -25,18 +25,10 @@
 
 Описание проекта 1. Что он делает, какие технологии использованы и почему он важен.
 
-### [Название проекта 2](Ссылка на проект)
-
-Описание проекта 2.
-
-### [Название проекта 3](Ссылка на проект)
-
-Описание проекта 3.
-
 ## Статистика GitHub
 
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ТвойUsername&show_icons=true&theme=radical)](https://github.com/ТвойUsername)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=dema28&show_icons=true&theme=radical)](https://github.com/dema28)
 
 ## Мои языки и технологии
 
-[![Языки и технологии](https://github-readme-stats.vercel.app/api/top-langs/?username=ТвойUsername&layout=compact&theme=radical)](https://github.com/ТвойUsername)
+[![Языки и технологии](https://github-readme-stats.vercel.app/api/top-langs/?username=dema28&layout=compact&theme=radical)](https://github.com/dema28)
