@@ -12,7 +12,7 @@
 
 ## Связаться со мной
 
-- 📫 Email: dema28ster@gmail.com
+- Email: dema28ster@gmail.com
 - LinkedIn: www.linkedin.com/in/denis-novicov-dema28ster
 - Twitter: https://x.com/Denis_Novicov
 - Личный сайт: 
