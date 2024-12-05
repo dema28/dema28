@@ -2,7 +2,7 @@ name: Generate Isometric Commit Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Запуск каждое воскресенье
+    - cron: "0 0 * * *" 
   workflow_dispatch: # Возможность запустить вручную
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate Half-Year Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          
           filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
@@ -27,7 +27,7 @@ jobs:
       - name: Generate Full-Year Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          
           filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
