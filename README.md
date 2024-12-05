@@ -32,7 +32,10 @@
 ### [API Тестирование с Postman и SoapUI](Ссылка на проект)
 
 Описание проекта: Проект демонстрирует тестирование REST API с использованием Postman и SoapUI, включая запросы и валидацию ответов. Использованы Swagger для документации и JUnit для написания тестов.
+## Isometric Commit Calendar
 
+### Полугодовой календарь
+![Half-Year Calendar](./metrics.plugin.isocalendar.svg)
 
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=dema28&show_icons=true&theme=radical)](https://github.com/dema28)
 
