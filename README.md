@@ -48,4 +48,15 @@
   <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-  </div>
+
+
+
+
+ ## Isometric Commit Calendar
+
+### Полугодовой календарь
+![Half-Year Calendar](./metrics.plugin.isocalendar.svg)
+
+### Календарь за полный год
+![Full-Year Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+
