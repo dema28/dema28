@@ -57,6 +57,6 @@
 ### Полугодовой календарь
 ![Half-Year Calendar](./metrics.plugin.isocalendar.svg)
 
-### Календарь за полный год
-![Full-Year Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+<-- ### Календарь за полный год -->
+<-- ![Full-Year Calendar](./metrics.plugin.isocalendar.fullyear.svg) -->
 
