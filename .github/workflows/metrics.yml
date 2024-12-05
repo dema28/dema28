@@ -24,11 +24,11 @@ jobs:
           plugin_isocalendar: yes
 
       # Шаг 3: Генерация полного календаря за год
-      - name: Generate Full-Year Isometric Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+      # - name: Generate Full-Year Isometric Calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     filename: metrics.plugin.isocalendar.fullyear.svg
+      #     base: ""
+      #     plugin_isocalendar: yes
+      #     plugin_isocalendar_duration: full-year
