@@ -39,7 +39,7 @@
 <!-- ![Full-Year Calendar](./metrics.plugin.isocalendar.fullyear.svg) -->
 ## Сертификаты
 
-[![QA_Testing](certificates/QA_TestingAR thumb.jpg)](certificates/QA_TestingAR .pdf)  
+[![QA_Testing](certificates/QA_TestingAR_thumb.jpg)](certificates/QA_TestingAR.pdf)  
 [![Сертификат 2](certificates/certificate2_thumb.png)](certificates/certificate2.pdf)
 
 
