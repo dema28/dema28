@@ -18,13 +18,21 @@
     <img src="certificates/QA_TestingAR_thumb.jpg" alt="QA Testing AR" width="150">
 </a>
 
-<!-- <a href="certificates/Automation_Engineer.pdf">
-    <img src="certificates/Automation_Engineer_thumb.jpg" alt="Automation Engineer" width="150">
+<a href="certificates/QA_Testing_universe.pdf">
+    <img src="certificates/QA_Testing_universe_thumb.jpg" alt="QA Manual" width="150">
 </a>
 
-<a href="certificates/Selenium_Testing.pdf">
-    <img src="certificates/Selenium_Testing_thumb.jpg" alt="Selenium Testing" width="150">
-</a> -->
+<a href="certificates/API_Testing.pdf">
+    <img src="certificates/API_Testing_thumb.jpg" alt="API Testing" width="150">
+</a>
+
+<a href="certificates/Postman.pdf">
+    <img src="certificates/Postman_thumb.jpg" alt="Postman" width="150">
+</a>
+
+<a href="certificates/SQL_Basics.pdf">
+    <img src="certificates/SQL_Basics_thumb.jpg" alt="SQL Basics" width="150">
+</a>
 
 </div>
 
