@@ -10,6 +10,24 @@
 - ⚡ Факт обо мне: Я придерживаюсь принципа непрерывного совершенствования, всегда стараюсь улучшить свои навыки и инструменты, которые использую.
 - 📈 Мой подход: Всегда стремлюсь к точности и эффективности в решении задач, верю в важность тестирования как ключевого этапа в обеспечении высокого качества продукта.
 - 📜 Сертификаты: 
+# Мои Сертификаты
+
+<div style="display: flex; gap: 10px;">
+
+<a href="certificates/QA_TestingAR.pdf">
+    <img src="certificates/QA_TestingAR_thumb.jpg" alt="QA Testing AR" width="150">
+</a>
+
+<!-- <a href="certificates/Automation_Engineer.pdf">
+    <img src="certificates/Automation_Engineer_thumb.jpg" alt="Automation Engineer" width="150">
+</a>
+
+<a href="certificates/Selenium_Testing.pdf">
+    <img src="certificates/Selenium_Testing_thumb.jpg" alt="Selenium Testing" width="150">
+</a> -->
+
+</div>
+
 ## Связаться со мной
 - Email: dema28ster@gmail.com
 - LinkedIn: www.linkedin.com/in/denis-novicov-dema28ster
@@ -37,10 +55,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 <!-- ### Календарь за полный год -->
 <!-- ![Full-Year Calendar](./metrics.plugin.isocalendar.fullyear.svg) -->
-## Сертификаты
-
-[![QA_Testing](certificates/QA_TestingAR_thumb.jpg)](certificates/QA_TestingAR.pdf)  
-[![Сертификат 2](certificates/certificate2_thumb.png)](certificates/certificate2.pdf)
 
 
 
