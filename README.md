@@ -39,7 +39,7 @@
 - Email: dema28ster@gmail.com
 - LinkedIn: www.linkedin.com/in/denis-novicov-dema28ster
 - Twitter: https://x.com/Denis_Novicov
-- Личный сайт: 
+- Личный сайт: https://dema28.github.io/Denis_Novicov.github.io/
 ## Мои проекты
 Вот некоторые из моих проектов:
 ### [Автоматизация тестов для веб-приложения](Ссылка на проект)
