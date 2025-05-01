@@ -132,6 +132,20 @@
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=dema28&show_icons=true&theme=radical)](https://github.com/dema28)
 
 [![Языки и технологии](https://github-readme-stats.vercel.app/api/top-langs/?username=dema28&layout=compact&theme=radical)](https://github.com/dema28)
+<<<<<<< HEAD
+=======
+### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="java" alt="python" width="40" height="40"/>&nbsp;
+ 
+<!-- ### Календарь за полный год -->
+<!-- ![Full-Year Calendar](./metrics.plugin.isocalendar.fullyear.svg) -->
+>>>>>>> 64e8a49e8ca13f4ea2c84b0aa40e44fc876ec9bd
 
 ---
 
