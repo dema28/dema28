@@ -4,8 +4,8 @@ Welcome to my GitHub profile! 👋
 
 This page is available in:
 
-- 🇷🇺 [Russian](./README_RU.md)
-- 🇬🇧 [English](./README_EN.md)
+- [Russian](README_RU.md)
+- [English](README_EN.md)
 
 ---
 
@@ -32,7 +32,7 @@ I enjoy solving real problems, continuously improving my tools and skills, and c
 
 | Project        | Type      | Stack                                 | Link                                                                   |
 | -------------- | --------- | ------------------------------------- | ---------------------------------------------------------------------- |
-| BreakToMake    | UI + API  | Java, Python, Selenium, Allure, CI/CD | [View](https://github.com/dema28/breaktomake)                          |
+| BreakToMake    | UI        | Java, Python, Selenium, Allure, CI/CD | [View](https://github.com/dema28/breaktomake)                          |
 | CrashProof     | UI        | Python, Selenium, GitHub Actions      | [View](https://github.com/dema28/CrashProof)                           |
 | Manual QA Docs | Manual UI | Checklists, Reports, Markdown         | [View](https://github.com/dema28/BreakToMake/tree/main/manual_testing) |
 
