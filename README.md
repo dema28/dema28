@@ -1,15 +1,15 @@
 # Denis Novicov — QA Engineer
 
-Welcome to my GitHub profile! 👋
+Welcome to my GitHub profile!
 
 This page is available in:
 
-- [Russian](README_RU.md)
-- [English](README_EN.md)
+- ### [Russian](README_RU.md)
+- ### [English](README_EN.md)
 
 ---
 
-## 🌟 About Me
+## About Me
 
 Hi, I'm **Denis**, a software tester passionate about quality and efficiency. I work on both manual and automated testing, build test frameworks, and integrate CI/CD pipelines to ensure stability and visibility across projects.
 
@@ -17,7 +17,7 @@ I enjoy solving real problems, continuously improving my tools and skills, and c
 
 ---
 
-## 🚀 Skills Overview
+## Skills Overview
 
 **Languages & Markup:** Java, Python, SQL, HTML, CSS, Markdown  
 **Test Automation:** Selenium, TestNG, Pytest, JUnit, Allure, REST Assured  
@@ -28,7 +28,7 @@ I enjoy solving real problems, continuously improving my tools and skills, and c
 
 ---
 
-## 🧪 Sample Projects
+## Sample Projects
 
 | Project        | Type      | Stack                                 | Link                                                                   |
 | -------------- | --------- | ------------------------------------- | ---------------------------------------------------------------------- |
@@ -38,14 +38,14 @@ I enjoy solving real problems, continuously improving my tools and skills, and c
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dema28&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dema28&layout=compact&theme=radical)
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - Email: dema28ster@gmail.com
 - LinkedIn: [Denis Novicov](https://www.linkedin.com/in/denis-novicov-dema28ster)
