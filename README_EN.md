@@ -109,6 +109,10 @@ I'm **Denis**, a passionate software tester. I love finding order in bug chaos a
     <img src="certificates/SQL_Basics_thumb.jpg" alt="SQL Basics" width="150">
 </a>
 
+<a href="certificates/Diplom_IT_Step_QA.pdf">
+    <img src="certificates/Diplom_IT_Step_thumb.jpg" alt="SQL Basics" width="150">
+</a>
+
 </div>
 
 ---
